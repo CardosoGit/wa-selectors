@@ -50,5 +50,6 @@
   ],
   "notesContainer": ["#main  > span.xmbbrlm"],
   "sideBarContainer": ["#app > div > div:last-child > div > header > div > div > div > div > span > div > div"],
-  "chatContainer": ["#main > div > div > div:last-child > div:last-child"]
+  "chatContainer": ["#main > div > div > div:last-child > div:last-child"],
+  "chatDisplayName": ["#main > header > div:nth-child(2) > div > div > div"]
 }
