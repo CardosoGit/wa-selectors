@@ -53,7 +53,7 @@
   "chatContainer": ["#main > div > div > div:last-child > div:last-child"],
   "chatDisplayName": ["#main > header > div:nth-child(2) > div > div > div"],
   "containerHeaderPreviewChats": ["#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div",
-"#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div > span",
+"#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div > span"],
 "containerMain": ["#app > :last-child > div > div"]
-]
+
 }
