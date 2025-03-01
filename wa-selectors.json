@@ -54,6 +54,8 @@
   "chatDisplayName": ["#main > header > div:nth-child(2) > div > div > div"],
   "containerHeaderPreviewChats": ["#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div",
 "#app > div > div.x78zum5 > div > div._aigw > header > header > div > span > div > span"],
-"containerMain": ["#app > :last-child > div > div"]
+"containerMain": ["#app > :last-child > div > div"],
+  "containerInputChat": ["footer._ak1i > div > div > span > div > div._ak1r > div"],
+"inputChat": ["footer._ak1i > div > div > span > div > div._ak1r > div > div.lexical-rich-text-input"]
 
 }
