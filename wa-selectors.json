@@ -79,7 +79,7 @@
   "chatContentMessageIn": [
      ".copyable-text > div > span.copyable-text > span",
      ".copyable-text span",
-     ".selectable-text",
-   ], 
+     ".selectable-text"
+   ]
 
 }
