@@ -80,6 +80,8 @@
      ".copyable-text > div > span.copyable-text > span",
      ".copyable-text span",
      ".selectable-text"
-   ]
-
+   ],
+  "containerPreviewChat": [
+   "#app > div > div.x78zum5 > div > div._aigw"
+  ]
 }
