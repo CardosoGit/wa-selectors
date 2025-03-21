@@ -84,5 +84,8 @@
    ],
   "containerPreviewChat": [
    "#app > div > div.x78zum5 > div > div._aigw"
-  ]
+  ],
+ "contentMessageInListChat": [
+"div._akbu"
+]
 }
