@@ -50,7 +50,7 @@
   ],
   "notesContainer": [
      "#main  > span.xmbbrlm", 
-     "#main > div.x5yr21d" 
+     "#main > span" 
   ],
   "sideBarContainer": [
      "#app > div > div:last-child > div > header > div > div > div > div > span > div > div",
