@@ -20,7 +20,8 @@
     "#app > div > div[class='two _aigs'] > div[class='_aigv _aigw'] > header > header > div > span > div > span",
     "#main > header > div.xmn8rco > div",
     "#main > header > div.xmn8rco",
-    "#main > header > div.xmn8rco > div:last-of-type"
+    "#main > header > div.xmn8rco > div:last-of-type",
+    "#main > header > div:last-child > div:last-of-type"    
   ],
   "containerPerfilButtons": [
     "header > div:last-child > div:last-child > span",
