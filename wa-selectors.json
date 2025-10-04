@@ -58,7 +58,7 @@
   "sideBarContainer": [
      "#app > div > div:last-child > div > header > div > div > div > div > span > div > div",
      "#app > div > div:last-child > div > header > div > div > div",
-    "#app > div > div:last-child > div:last-child > div > header > div  > div"
+    "#app > div > div:last-child > div:last-child > div > header > div  > div > div"
   ],
   "hasHrInSideBar": [
      "#app > div > div:last-child > div > header > div > div > div > div > span > div > div > hr"    
