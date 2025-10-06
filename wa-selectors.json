@@ -64,7 +64,6 @@
      "#app > div > div:last-child > div > header > div > div > div > div > span > div > div > hr"    
   ],
   "chatContainer": [
-    "#app > div > div > div:last-child > div > :nth-last-of-type(2) > #main",
      "#main > div > div > div:last-child > div:last-child"
   ],
   "chatDisplayName": [
