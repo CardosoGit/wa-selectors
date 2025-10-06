@@ -75,7 +75,8 @@
      "#app > div > div.x78zum5 > div.x78zum5 > div > div._aigw > header > header > div > span > div"
   ],
   "containerMain": [
-     "#app > :last-child > div > div"
+     "#app > :last-child > div > div",
+    "#app > div > div > :last-child > div > div"
   ],
   "containerInputChat": [
      "footer._ak1i > div > div > span > div > div._ak1r > div"
