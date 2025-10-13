@@ -45,8 +45,7 @@
     "#app > div > div > div > div.x1ux35ld",
     "#app > div > div > div > div.x1m2ixmg",
     "#app > div > div > div > div > div.x1m2ixmg",
-    "#app > div > div > div > div> div:nth-last-child(2)",
-    "#app > div > div > div > div> div:nth-last-child(2) #main"
+    "#app > div > div > div > div> div:nth-last-child(2)"    
   ],  
   "anchorElementSelector": [
     "#main > footer > div._ak1k._ahmw.copyable-area > div > span:nth-child(2) > div > div._ak1t._ak1m",
