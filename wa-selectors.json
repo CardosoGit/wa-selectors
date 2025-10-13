@@ -45,6 +45,7 @@
     "#app > div > div > div > div.x1ux35ld",
     "#app > div > div > div > div.x1m2ixmg",
     "#app > div > div > div > div > div.x1m2ixmg",
+    "#app > div > div > div > div> div:nth-last-child(2)",
     "#app > div > div > div > div> div:nth-last-child(2) #main"
   ],  
   "anchorElementSelector": [
