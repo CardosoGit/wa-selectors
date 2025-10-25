@@ -60,7 +60,6 @@
   ],
   "chatContainer": [
     "#main > div > div > div:last-child",
-
      "#main > div > div > div:last-child > div:last-child"
   ],
   "chatDisplayName": [
